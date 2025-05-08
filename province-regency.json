@@ -1,0 +1,166 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": 91,
+      "provincename": "Papua",
+      "regencies": [
+        {
+          "id": 1,
+          "province_id": 91,
+          "regencyname": "Jayapura"
+        },
+        {
+          "id": 2,
+          "province_id": 91,
+          "regencyname": "Kepulauan Yapen"
+        },
+        {
+          "id": 3,
+          "province_id": 91,
+          "regencyname": "Biak Numfor"
+        },
+        {
+          "id": 4,
+          "province_id": 91,
+          "regencyname": "Sarmi"
+        },
+        {
+          "id": 5,
+          "province_id": 91,
+          "regencyname": "Mamberamo Raya"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "provincename": "Papua Barat",
+      "regencies": [
+        {
+          "id": 6,
+          "province_id": 92,
+          "regencyname": "Manokwari"
+        },
+        {
+          "id": 7,
+          "province_id": 92,
+          "regencyname": "Fakfak"
+        },
+        {
+          "id": 8,
+          "province_id": 92,
+          "regencyname": "Kaimana"
+        },
+        {
+          "id": 9,
+          "province_id": 92,
+          "regencyname": "Teluk Bintuni"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "provincename": "Papua Pegunungan",
+      "regencies": [
+        {
+          "id": 10,
+          "province_id": 93,
+          "regencyname": "Jayawijaya"
+        },
+        {
+          "id": 11,
+          "province_id": 93,
+          "regencyname": "Lanny Jaya"
+        },
+        {
+          "id": 12,
+          "province_id": 93,
+          "regencyname": "Nduga"
+        },
+        {
+          "id": 13,
+          "province_id": 93,
+          "regencyname": "Yahukimo"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "provincename": "Papua Tengah",
+      "regencies": [
+        {
+          "id": 14,
+          "province_id": 94,
+          "regencyname": "Nabire"
+        },
+        {
+          "id": 15,
+          "province_id": 94,
+          "regencyname": "Paniai"
+        },
+        {
+          "id": 16,
+          "province_id": 94,
+          "regencyname": "Dogiyai"
+        },
+        {
+          "id": 17,
+          "province_id": 94,
+          "regencyname": "Deiyai"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "provincename": "Papua Selatan",
+      "regencies": [
+        {
+          "id": 18,
+          "province_id": 95,
+          "regencyname": "Merauke"
+        },
+        {
+          "id": 19,
+          "province_id": 95,
+          "regencyname": "Mappi"
+        },
+        {
+          "id": 20,
+          "province_id": 95,
+          "regencyname": "Asmat"
+        },
+        {
+          "id": 21,
+          "province_id": 95,
+          "regencyname": "Boven Digoel"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "provincename": "Papua Barat Daya",
+      "regencies": [
+        {
+          "id": 22,
+          "province_id": 96,
+          "regencyname": "Sorong"
+        },
+        {
+          "id": 23,
+          "province_id": 96,
+          "regencyname": "Sorong Selatan"
+        },
+        {
+          "id": 24,
+          "province_id": 96,
+          "regencyname": "Tambrauw"
+        },
+        {
+          "id": 25,
+          "province_id": 96,
+          "regencyname": "Maybrat"
+        }
+      ]
+    }
+  ]
+}
